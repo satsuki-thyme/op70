@@ -8,6 +8,14 @@
     "var": ["list", "", "character-list", ["名前", "性質・情報"], 0, 0]
   },
   {
+    "active": true,
+    "name": "台詞",
+    "markupType": "preposition",
+    "mark": ["<", ">"],
+    "path": "foreshadowing-list",
+    "var": ["list", "", "foreshadowing-list", ["識別名", "内容"], 0, 0]
+  },
+  {
     "active": false,
     "name": "魔物",
     "markupType": "preposition",
@@ -22,14 +30,6 @@
     "mark": ["(", ")"],
     "path": "thing-list",
     "var": ["list", "", "thing-list", ["名前", "性質・情報"], 0, 0]
-  },
-  {
-    "active": false,
-    "name": "伏線",
-    "markupType": "preposition",
-    "mark": ["<", ">"],
-    "path": "foreshadowing-list",
-    "var": ["list", "", "foreshadowing-list", ["識別名", "内容"], 0, 0]
   },
   {
     "active": false,
