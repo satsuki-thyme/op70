@@ -1,0 +1,104 @@
+summary:
+  - group:
+      naem: continuous
+      member:
+        - person: ラーズ
+        - person: スクルド
+        - person: シトラ
+        - person: アクナ
+        - person: 女神アスティナ
+
+details:
+  - group:
+    name: continuous
+    member:
+      - person: ラーズ
+        meta data:
+          role: 主人公
+          applicable chapter: continuous
+        nature:
+          race: 葦人
+          gender: 男
+          age: 20
+        outline:
+          first impression: 
+        appearance:
+          face: 格好いい
+          hair: 黒
+          eyes: 黒
+          body: 逞しい
+        personality:
+          - 
+
+      - person: スクルド
+        meta data:
+          role: ヒロイン
+          applicable chapter: continuous
+        nature:
+          race: 葦人
+          gender: 女
+          age: 17
+        outline:
+          first impression: 凜々しく誠実
+        appearance:
+          face: 凜々しい
+          hair: スカーレットのロング
+          eyes: 
+          body: 華奢
+        personality:
+          - 
+
+      - person: シトラ
+        meta data:
+          role: ヒロイン
+          applicable chapter: continuous
+        nature:
+          race: 葦人
+          gender: 女
+          age: 17
+        outline:
+          first impression: 奔放
+        appearance:
+          face: 元気のいい顔つき
+          hair: アップイエローのボブ
+          eyes: 
+          body: 体つきは一番いい
+        personality:
+          - 
+
+      - person: アクナ
+        meta data:
+          role: 
+          applicable chapter: 
+        nature:
+          race: 葦人
+          gender: 女
+          age: 18
+        outline:
+          first impression: 賢そう
+        appearance:
+          face: 賢そう
+          hair: ウォーターブルーのアップ
+          eyes: 
+          body: 身長が僅差で一番低い
+        personality:
+          - 言葉少な
+
+      - person: 女神アスティナ
+        meta data:
+          role: 
+          applicable chapter: continuous
+        nature:
+          race: 神
+          gender: 女
+          age: 20歳に見える
+        outline:
+          first impression: 世界の理想を体現したような美しさ
+        appearance:
+          face: 
+          hair: ブロンド
+          eyes: 
+          body: 
+        personality:
+          - 
+

@@ -8,7 +8,7 @@
     "var": ["list", "", "character-list", ["名前", "性質・情報"], 0, 0]
   },
   {
-    "active": true,
+    "active": false,
     "name": "台詞",
     "markupType": "preposition",
     "mark": ["<", ">"],

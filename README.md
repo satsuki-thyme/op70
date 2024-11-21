@@ -6,7 +6,8 @@
 - text/01/002.txt: 目覚め
 - text/01/003.txt: 戦姫と里
 - text/01/004.txt: 突然の告白
-- text/01/005.txt: タイトル未定
+- text/01/005.txt: 女神との邂逅
+- text/01/006.txt: タイトル未定
 
 ### 設定
 - settings/characters.yml: キャラクター
