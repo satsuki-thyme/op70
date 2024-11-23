@@ -9,16 +9,31 @@
 - text/01/005.txt: 女神との邂逅
 - text/01/006.txt: タイトル未定
 
+### 計画
+- plan/pla-01.md: 計画 第1章
+
 ### 設定
 - settings/characters.yml: キャラクター
+- settings/global.yml:     全体
 - settings/magic.yml:      魔法
 - settings/place.yml:      場所
+- settings/subject.yml:    主体
 - settings/things.yml:     物事
 
-### etc.
-- etc/foreshadowings.yml: 伏線
+### 伏線
+- foreshadowings/01-resolved.yml:   既解決 第1章
+- foreshadowings/01-unresolved.yml: 未解決 第1章
+
+### ログ
+- log/log-01.yml: 第1章
 
 ### メモ
 #### 共通
 - memo/00/mem-001.md: tmp
 - memo/00/mem-002.md: 外世界
+
+### 思考ノート
+- thinking-notes/thi-001.md: 006.txtの祭りのエピソード
+- thinking-notes/thi-002.md: 封印された邪神群と、終焉の魔物と、古代◯◯人の末裔
+- thinking-notes/thi-003.md: 006.txtで本が登場するまで
+- thinking-notes/thi-004.md: 魔力に反発することで有名な素材
