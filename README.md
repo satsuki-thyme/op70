@@ -14,7 +14,6 @@
 
 ### 設定
 - settings/characters.yml: キャラクター
-- settings/global.yml:     全体
 - settings/magic.yml:      魔法
 - settings/place.yml:      場所
 - settings/subject.yml:    主体
@@ -37,3 +36,6 @@
 - thinking-notes/thi-002.md: 封印された邪神群と、終焉の魔物と、古代◯◯人の末裔
 - thinking-notes/thi-003.md: 006.txtで本が登場するまで
 - thinking-notes/thi-004.md: 魔力に反発することで有名な素材
+- thinking-notes/thi-005.md: 悪魔
+- thinking-notes/thi-006.md: 邪神
+- thinking-notes/thi-007.md: 神

@@ -8,6 +8,7 @@ summary:
         - person: アクナ
         - person: 女神アスティナ
 
+
 details:
   - group:
     name: continuous
@@ -29,6 +30,9 @@ details:
           body: 逞しい
         personality:
           - 
+        notes:
+          - 
+
 
       - person: スクルド
         meta data:
@@ -47,6 +51,9 @@ details:
           body: 華奢
         personality:
           - 
+        notes:
+          - 
+
 
       - person: シトラ
         meta data:
@@ -65,6 +72,9 @@ details:
           body: 体つきは一番いい
         personality:
           - 
+        notes:
+          - 
+
 
       - person: アクナ
         meta data:
@@ -82,7 +92,10 @@ details:
           eyes: 
           body: 身長が僅差で一番低い
         personality:
+          - 
+        notes:
           - 言葉少な
+
 
       - person: 女神アスティナ
         meta data:
@@ -101,4 +114,5 @@ details:
           body: 
         personality:
           - 
-
+        notes:
+          - 外世界の概念体（主人公）が作ったエクスワールド・マスコット
