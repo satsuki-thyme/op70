@@ -10,7 +10,7 @@
 - text/01/006.txt: タイトル未定
 
 ### 計画
-- plan/pla-01.md: 計画 第1章
+- plan/plan-01.md: 計画 第1章
 
 ### 設定
 - settings/characters.yml: キャラクター
