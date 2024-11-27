@@ -7,7 +7,8 @@
 - text/01/003.txt: 戦姫と里
 - text/01/004.txt: 突然の告白
 - text/01/005.txt: 女神との邂逅
-- text/01/006.txt: タイトル未定
+- text/01/006.txt: 祭典の余興
+- text/01/007.txt: タイトル未定
 
 ### 計画
 - plan/plan-01.md: 計画 第1章
@@ -39,3 +40,4 @@
 - thinking-notes/thi-005.md: 悪魔
 - thinking-notes/thi-006.md: 邪神
 - thinking-notes/thi-007.md: 神
+- thinking-notes/thi-008.md: 魔物

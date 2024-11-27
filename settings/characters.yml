@@ -1,17 +1,31 @@
 summary:
-  - group:
-      naem: continuous
-      member:
-        - person: ラーズ
-        - person: スクルド
-        - person: シトラ
-        - person: アクナ
-        - person: 女神アスティナ
+  - group: メイン
+    details available: true
+    member:
+      - person: ラーズ
+      - person: スクルド
+      - person: シトラ
+      - person: アクナ
+      - person: 女神アスティナ
+
+  - group: 里
+    details available: false
+    member:
+      - person: ザイゼル
+        description:
+          - 里長
+
+      - person: セルバ
+        description:
+          - スクルドに想いを寄せてラーズに挑戦する少年
+
+      - person: テドルデ
+        description:
+          - セルバの祖父でラーズに挑戦、敗北して危ない存在についての情報を提供する
 
 
 details:
-  - group:
-    name: continuous
+  - group: main
     member:
       - person: ラーズ
         meta data:
