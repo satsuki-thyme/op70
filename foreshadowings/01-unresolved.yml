@@ -16,11 +16,11 @@
 
 - item:
   foreshadowing:
-    episode: 00
+    episode: 007
     text:
-      -
+      三人の中では一番暴走しやすいのかもな。
     meaning:
-      -
+      アクナが好奇心に駆られて暴走しやすい
   resolve:
     episode: 00
     text:
@@ -31,11 +31,13 @@
 
 - item:
   foreshadowing:
-    episode: 00
+    episode: 007
     text:
-      -
+      <aquna>「テドルデは古代遺跡を研究していた。
+      <aquna>　昔は各地の遺跡をめぐっていたらしい。
+      <aquna>　そこに何かがあるかもしれない」
     meaning:
-      -
+      古代遺跡に悪魔が封印されている
   resolve:
     episode: 00
     text:
