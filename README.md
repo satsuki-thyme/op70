@@ -43,3 +43,4 @@
 - thinking-notes/thi-007.md: 神
 - thinking-notes/thi-008.md: 魔物
 - thinking-notes/thi-009.md: 007.txt
+- thinking-notes/thi-010.md: 008.txt

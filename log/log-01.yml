@@ -1,28 +1,45 @@
 # ログ 第1章
 1:
   subtitle: 夢への来訪者
-  battle: true
+  event: battle
+  summary: 無敵の主人公が自称神の頼みで異世界へ
 
 2:
   subtitle: 目覚め
-  battle: none
+  event: 
+  summary: 自称神の指示で異世界へ転生し、神格化された主人公に女性たちが跪く
 
 3:
   subtitle: 戦姫と里
-  battle: none
+  event: 
+  summary: 異世界で「ラーズ」として迎えられた主人公は、従者たちと里の歓迎を受ける
 
 4:
   subtitle: 突然の告白
-  battle: none
+  event: 
+  summary: 主人公ラーズ、里長への力の証明を終えた直後、戦姫スクルドを巡り挑戦者セルバとの剣勝負を受ける
 
 5:
   subtitle: 女神との邂逅
-  battle: true
+  event: battle
+  summary: ラーズは挑戦者セルバを圧倒後、女神の助言で強敵が現れる街への旅を決意する
 
 6:
+  subtitle: 祭典の余興
+  event: 
+  summary: ラーズは祭りでの勝負に勝利し、危険な存在の情報を得る約束を取り付けた
+
+7:
+  subtitle: 願いと思い
+  event: ero
+  summary: ラーズは危険な悪魔の存在を知り、戦姫たちを守る決意を固めた
+
+8:
   subtitle: 
-  battle: none
+  event: 
+  summary: 
 
 :
   subtitle: 
-  battle: 
+  event: 
+  summary: 
