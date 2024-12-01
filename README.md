@@ -36,7 +36,7 @@
 ### 思考ノート
 - thinking-notes/thi-001.md: 006.txt
 - thinking-notes/thi-002.md: 封印された邪神群と、終焉の魔物と、古代◯◯人の末裔
-- thinking-notes/thi-003.md: ――空き
+- thinking-notes/thi-003.md: グローバルテーマ
 - thinking-notes/thi-004.md: 魔力に反発することで有名な素材
 - thinking-notes/thi-005.md: 悪魔
 - thinking-notes/thi-006.md: 邪神
@@ -44,3 +44,5 @@
 - thinking-notes/thi-008.md: 魔物
 - thinking-notes/thi-009.md: 007.txt
 - thinking-notes/thi-010.md: 008.txt
+- thinking-notes/thi-011.md: 古代◯◯人の末裔
+- thinking-notes/thi-012.md: 第1章末の邪神
